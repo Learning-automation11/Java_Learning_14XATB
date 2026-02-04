@@ -4,7 +4,8 @@ public class LitExample {
    public static void main() {
 
        int i=10;
-       // D(Datatype) I(Integral) L(Literal)
+       // D(Datatype) I(Identifier) L(Literal)
        System.out.println("Integer value "+i);
+
     }
 }
